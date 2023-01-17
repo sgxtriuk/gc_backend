@@ -1,1 +1,1 @@
-# game_collector_server
+# Backend written on Swift (Vapor) for Game Collector iOS
